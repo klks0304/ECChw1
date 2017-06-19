@@ -1,6 +1,6 @@
 #python
 #sage
-#Problem.1: Consider the elliptic curve 𝐸: 𝑦^2 = 𝑥^3 + (𝑎 + 1)𝑥 + 𝑎 over extension field 𝐺𝐹(7^5) ≅ 𝑍_7[𝑎]/ 𝑔(𝑎) . 
+#Problem.1: Consider the elliptic curve 𝐸: 𝑦^2 = 𝑥^3 + (𝑎 + 1)*𝑥 + 𝑎 over extension field 𝐺𝐹(7^5) ≅ 𝑍_7[𝑎]/ 𝑔(𝑎) . 
 #We know that 𝐸 has only one generator 𝑃. Suppose that 𝑄=𝑘𝑃 and 𝑄=(5*𝑎^4 + 𝑎^3 + 3*𝑎^2 + 𝑎 + 6, 5*𝑎^4 +6 *𝑎^3 + 2*𝑎^2 + 4*𝑎 + 6).
 #Find 𝑘 = ?
 
